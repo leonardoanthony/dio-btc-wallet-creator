@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.7.4",
     "bip32": "^2.0.6",
     "bip39": "^3.1.0",
     "bitcoinjs-lib": "^6.1.6"
